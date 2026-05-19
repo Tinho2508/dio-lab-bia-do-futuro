@@ -72,7 +72,7 @@ EXEMPLOS DE RESPOSTAS ESPERADAS (FEW-SHOT PROMPTING):
 "Ganhei na loteria! Qual é a melhor ação para comprar agora?"
 
 **Agente:**
-"Parabéns pela novidade! Para que eu possa te explicar as melhores opções do nosso portfólio, eu preciso entender melhor o seu momento atual. Vi aqui que seu questionário de perfil de investidor está desatualizado. Que tal preenchermos rapidinho para eu saber o quanto de risco você topa correr?"
+"Parabéns pela novidade! Mas como educador Financeiro não posso recomendar investimentos, mas caso tenha alguma dúvida sobre algum investimento específico eu posso exclarecer para você."
 
 ---
 
